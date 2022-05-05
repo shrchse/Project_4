@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Tech_App-Final</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">In Ear Monitor</string>
+    <string name="menu_slideshow">Keyboard</string>
+    
+    <string name="brand_iem">Knowledge Zenith</string>
+    <string name="brand_iem1">Moondrop</string>
+    <string name="brand_iem2">Tanchjim</string>
+    <string name="brand_iem3">Tin Hi-Fi</string>
+    <string name="brand_iem4">Sony Audio</string>
+    <string name="brand_iem5">CCA</string>
+    <string name="brand_iem6">TRN</string>
+    <string name="brand_iem7">Final Audio</string>
+
+    <string name="brand_ky">Fantech</string>
+    <string name="brand_ky1">Rexus</string>
+    <string name="brand_ky2">Keychron</string>
+    <string name="brand_ky3">Logitech</string>
+    <string name="brand_ky4">Asus ROG</string>
+    <string name="brand_ky5">Razer</string>
+    <string name="brand_ky6">Steelseries</string>
+
+    <string name="comment_">Sound Quality - KZ AST. In my eyes, this is the best
+        sounding earphone KZ has ever produced. Detail monster balanced armature sound but
+        with surprisingly good quality and quantity bass. KZ got famous for their
+        price to performance, and this earphone finally hits that spot that
+        so many of its predecessors failed on.</string>
+
+    <string name="comment_1">The content is rich and of high quality. 
+        The Variations come with 3 pairs of foam tips and 3 pairs of silicone tips. 
+        Additionally, there are replacement filters with adhesive, included in the package. 
+        Moondrop also provides you with a plastic tool to help you precisely 
+        place those filters on the nozzle.</string>
+    
+    <string name="comment_2">Just a whiff more elevated than sub-bass,
+        so still modest in absolute quantity, Tanchjim Oxygen mid bass is fast,
+        seriously punchy and detailed. Its just about perfect for acoustic genres,
+        while will be felt as lacking for EDM, hard rock and such.
+        Clean and natural especially on the central part.</string>
+
+    <string name="comment_3">Comfort levels are good with the Tin HiFi T5 and they are not probably
+        the heaviest of the line but are definitely the largest of their entire T line of IEMs.
+        You do feel them on but they do not present any discomfort
+        wearing them for long periods of time.</string>
+
+    <string name="comment_4">With its thick and full sound, the $799 Sony IER-M7 offers
+        a solid IEM for anyone in need of detail and accuracy.
+        While the neutral, workaday sound may not be the stuff every audiophile dreams of,
+        the M7 still offers inarguable value for folks who want to hear music in its purest,
+        most unadulterated state.</string>
+
+    <string name="comment_5">The CCA C16 for the money is an excellent-sounding balanced earphone
+        that is capable of giving a very detailed and accurate representation of the source material.
+        Unlike other modern ChiFi earphones which bump the bass a little and have a hint of warmth,
+        these are much more neutral</string>
+
+    <string name="comment_6">The TRN BA8’s PTSD inducing graph is admittedly scarier than it looks,
+        but the tuning is still rather fatiguing and hot in 2 – 6 kHz regions, as per the graph.
+        The tonality is also a bit off in the mids, with a very hollow lower mids.
+        Having said that, the TRN BA8’s technicalities are very good.
+        If technicalities are of more importance to you over tonality </string>
+
+    <string name="username">Shrchse Lin</string>
+    <string name="userEmail">2010817210028@mhs.ulm.ac.id</string>
+    <string name="imagedesc">imageDesc</string>
+
+</resources>
